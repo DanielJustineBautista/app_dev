@@ -7,7 +7,7 @@ My first repository
 ![image](https://github.com/DanielJustineBautista/app_dev/assets/133612625/db5ecb87-8404-4fc5-8310-0cdab6b48fd4)
 
 
->but I also like **marvel movies**
+>## but I also like **marvel movies**
 like
 1. Spider man
 2. Iron man
