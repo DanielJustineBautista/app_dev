@@ -10,7 +10,7 @@ like
 3. Batman
 
 *Anyways heres my code*
-
+---
 
 `import java.util.Scanner;
 
