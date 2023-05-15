@@ -4,6 +4,9 @@ My first repository
 ># My favorite movie
 ## **how to train your dragon**
 
+![image](https://github.com/DanielJustineBautista/app_dev/assets/133612625/db5ecb87-8404-4fc5-8310-0cdab6b48fd4)
+
+
 **but I also like marvel movies**
 like
 1. Spider man
