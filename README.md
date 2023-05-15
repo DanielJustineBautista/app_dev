@@ -9,3 +9,16 @@ like
 2. Iron man
 3. Batman
 
+*Anyways heres my code*
+`import java.util.Scanner;
+
+
+public class NewClass {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Enter name here : ");
+        String name = scan.nextLine();
+        System.out.println("hi " + name);
+    }
+}
+`
